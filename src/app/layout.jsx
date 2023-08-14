@@ -1,4 +1,3 @@
-
 import './globals.css'
 import { Inter } from 'next/font/google'
 
@@ -14,11 +13,11 @@ export default function RootLayout({ children }) {
         <meta property="og:title" content="Dalmatian" />
         <meta property="og:description" content="Dalmatian emerges as a catalyst for DeFi's transformation on the Shibarium Chain, presenting a suite of features that redefine how users engage with decentralized finance." />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="//i.ibb.co/WpBtD2L/2.png" />
-        <meta property="og:image:secure_url" content="https://i.ibb.co/WpBtD2L/2.png" />
+        <meta property="og:image" content="/preview.png" />
+        <meta property="og:image:secure_url" content="/preview.png" />
         <meta property="og:image:type" content="image/jpeg" />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="600" />
+        <meta property="og:image:width" content="1904" />
+        <meta property="og:image:height" content="624" />
         <meta property="og:url" content="https://dalmatian.exchange" />
         <meta property="og:site_name" content="Dalmatian" />
         <link rel="icon" href="/favicon.ico" />
