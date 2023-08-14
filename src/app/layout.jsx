@@ -5,10 +5,10 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-      title: 'Dalmation',
+      title: 'Dalmatian',
       description: 'Dalmatian emerges as a catalyst for DeFi\'s transformation on the Shibarium Chain, presenting a suite of features that redefine how users engage with decentralized finance.',
       image: '/preview.png',
-    siteName: 'Dalmation',
+    siteName: 'Dalmatian',
 }
 
 export default function RootLayout({ children }) {

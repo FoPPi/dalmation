@@ -14,7 +14,7 @@ export default function Main() {
                     </video>
                 </div>
                 <div className="flex flex-col justify-center items-center text-center mx-2">
-                    <h1 className={`${MonaBold.className} text-5xl md:text-6xl  lg:text-8xl`}>Welcome to the<br/>Dalmation Ecosystem</h1>
+                    <h1 className={`${MonaBold.className} text-5xl md:text-6xl  lg:text-8xl`}>Welcome to the<br/>Dalmatian Ecosystem</h1>
                     <p className={`${MonaRegular.className} lg:text-lg text-[#B4B4B4] mt-8 lg:mt-16 px-4`}>Dalmatian emerges as a catalyst for DeFi&apos;s transformation on the Shibarium<br/>Chain, presenting a suite of features that redefine how users engage with<br/>decentralized finance.</p>
                 </div>
                 <a href="https://app.dalmatian.exchange/" target="_blank">

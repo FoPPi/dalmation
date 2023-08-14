@@ -9,7 +9,7 @@ export default function Header() {
         <header className="flex  items-center bg-black py-5 px-28 flex-col md:flex-row md:justify-between">
             <div className="flex flex-row items-center space-x-2">
                 <Image src={Logo} alt="Logo" height={35} width={40}/>
-                <h3 className={`${MonaSemiBold.className} text-lg`}>Dalmation</h3>
+                <h3 className={`${MonaSemiBold.className} text-lg`}>Dalmatian</h3>
             </div>
             <div className="flex flex-row mt-5 md:mt-0 space-x-5 items-center text-[#6C6C6C]">
                 <a href="https://twitter.com/DalmatianDex" target="_blank">
