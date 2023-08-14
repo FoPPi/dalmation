@@ -1,12 +1,12 @@
 {
   "name": "dalmatian",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "private": true,
+  "homepage": "https://dalmatian.exchange",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "export": "next build && next export"
   },
   "dependencies": {
     "@iconify/react": "^4.1.1",
