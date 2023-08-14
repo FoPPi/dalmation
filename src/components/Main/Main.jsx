@@ -31,7 +31,7 @@ export default function Main() {
                             <button className={`${MonaMedium.className} bg-[#0D0D0D] text-[#FD792F] hover:bg-[#FF5C00] hover:text-[#0D0D0D] hover:scale-110 rounded-lg mt-8 px-16 py-4 transition duration-300`}>Join Our Community</button>
                         </a>
                     </div>
-                    <Image src={Dogs} width={441} height={349} alt="Dogs"/>
+                    <Image src={Dogs} width={441} height={349} alt="Dogs" unoptimized />
                 </div>
             </section>
         </main>
