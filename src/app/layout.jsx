@@ -17,8 +17,8 @@ export default function RootLayout({ children }) {
         <meta property="og:image" content="//i.ibb.co/WpBtD2L/2.png" />
         <meta property="og:image:secure_url" content="https://i.ibb.co/WpBtD2L/2.png" />
         <meta property="og:image:type" content="image/jpeg" />
-        <meta property="og:image:width" content="400" />
-        <meta property="og:image:height" content="300" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="600" />
         <meta property="og:url" content="https://dalmatian.exchange" />
         <meta property="og:site_name" content="Dalmatian" />
         <link rel="icon" href="/favicon.ico" />
