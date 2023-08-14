@@ -20,6 +20,10 @@ export default function RootLayout({ children }) {
         <meta property="og:image:height" content="624" />
         <meta property="og:url" content="https://dalmatian.exchange" />
         <meta property="og:site_name" content="Dalmatian" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Dalmatian" />
+        <meta name="twitter:description" content="Dalmatian emerges as a catalyst for DeFi's transformation on the Shibarium Chain, presenting a suite of features that redefine how users engage with decentralized finance." />
+        <meta name="twitter:image" content="/preview.png" />
         <link rel="icon" href="/favicon.ico" />
         <title>Dalmatian</title>
     </head>
