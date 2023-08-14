@@ -1,4 +1,4 @@
-import Head from 'next/head';
+
 import './globals.css'
 import { Inter } from 'next/font/google'
 
@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-    <Head>
+    <head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="Dalmatian emerges as a catalyst for DeFi's transformation on the Shibarium Chain, presenting a suite of features that redefine how users engage with decentralized finance." />
@@ -23,7 +23,7 @@ export default function RootLayout({ children }) {
         <meta property="og:site_name" content="Dalmatian" />
         <link rel="icon" href="/favicon.ico" />
         <title>Dalmatian</title>
-    </Head>
+    </head>
         <body className={inter.className}>{children}</body>
     </html>
   )
